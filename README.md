@@ -23,9 +23,9 @@ Display the output for the input read from the user.
 Stop the execution.
 
 ## Program:
-Program developed by : Shriram R
+Program developed by : P.Sarveshvaran
 
-Register number : 212221240053
+Register number : 212221230090
 ~
 using System;
 
